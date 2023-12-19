@@ -14,3 +14,6 @@ console.log(p);
 
 let booleanValue:boolean = true;
 console.log(booleanValue);
+
+let number:number = 100;
+console.log(number);
