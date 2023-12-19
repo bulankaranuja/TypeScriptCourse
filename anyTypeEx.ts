@@ -11,3 +11,6 @@ sequence.forEach((number) => {
 
 let p:any = "Ridant";
 console.log(p);
+
+let booleanValue:boolean = true;
+console.log(booleanValue);
